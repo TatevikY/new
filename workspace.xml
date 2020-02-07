@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="815f3439-b2a5-4eaa-b4aa-7f90e17907e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Tatevik Yayloyan\IdeaProjects\class1" />
+        <option value="C:\Users\Tatevik Yayloyan\IdeaProjects\class1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRMeuEkmqJdvNXe7sdFVQD2zfd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration name="firstclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstclass" />
+      <module name="class1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.firstclass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Tatevik Yayloyan\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshExecutablePath" value="git@github.com:TatevikY/HomeWork1.git" />
+    <option name="sshUserName" value="TatevikY" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="815f3439-b2a5-4eaa-b4aa-7f90e17907e2" name="Default Changelist" comment="" />
+      <created>1581004552242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581004552242</updated>
+      <workItem from="1581004567474" duration="7211000" />
+      <workItem from="1581099448151" duration="2929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="28" key="#Notifications" timestamp="1581100487853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="28" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1581100487853" />
+    <state x="451" y="152" width="463" height="581" key="#com.intellij.tools.ToolEditorDialog" timestamp="1581101367713">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="451" y="152" width="463" height="581" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1581101367713" />
+    <state x="463" y="111" key="FileChooserDialogImpl" timestamp="1581101787397">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="111" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581101787397" />
+    <state x="565" y="263" width="260" height="212" key="Github.ShareDialog" timestamp="1581099628857">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="565" y="263" width="260" height="212" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1581099628857" />
+    <state x="475" y="75" key="Github.UntrackedFilesDialog" timestamp="1581099658283">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="75" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1581099658283" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1581012069541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581012069541" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1581012069541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581012069541" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1581012069541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581012069541" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1581012069541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581012069541" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1581101747603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581101747603" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1581101765037">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1581101765037" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581099459945">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581099459945" />
+    <state x="65" y="0" key="new project wizard" timestamp="1581102541320">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1581102541320" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1581011505449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1581011505449" />
+  </component>
+</project>
